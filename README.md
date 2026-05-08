@@ -24,7 +24,7 @@ Tài khoản : sa\
 Mật khẩu: 123 </br>
 Tài khoản và mật khẩu trong hệ thống quản lý ngân hàng máu: </br>
      + User 1:\
-     Tài khoản: myle\
+     Tài khoản: tienlen\
      Mật khẩu: 123456 </br>
     +  Admin:\
      Tài khoản : admin\
